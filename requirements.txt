@@ -1,0 +1,6 @@
+transformers
+gtts
+pygame
+tk
+requests
+Pillow
